@@ -1,0 +1,32 @@
+{
+  "name": "test-lesson",
+  "version": "1.0.0",
+  "description": "A test for browser-lessons",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Brendan Neufeld",
+    "email": "brendanjneufeld@gmail.com",
+    "url": "https://github.com/BrendanNeufeld"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "browser-lessons,",
+    "module-generator,",
+    "modules,",
+    "lessons,",
+    "process"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BrendanNeufeld/test-lesson.git"
+  },
+  "homepage": "https://github.com/BrendanNeufeld/test-lesson",
+  "bugs": {
+    "url": "https://github.com/BrendanNeufeld/test-lesson/issues"
+  }
+}
