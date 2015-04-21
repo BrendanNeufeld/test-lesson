@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "A test for browser-lessons",
   "main": "index.js",
+  "bin": {
+    "test-lesson": "index.js"
+  },
   "license": "MIT",
   "author": {
     "name": "Brendan Neufeld",
     "email": "brendanjneufeld@gmail.com",
     "url": "https://github.com/BrendanNeufeld"
   },
-  "dependencies": {},
+  "dependencies": {
+    "browser-lessons": "^1.3.1",
+    "gsap": "^1.16.1",
+    "raf-loop": "^1.0.1",
+    "tape": "^4.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
