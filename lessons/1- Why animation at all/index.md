@@ -6,5 +6,3 @@
 	* “Is the app fetching data?”
 	* “Did I input something incorrectly?”
 * Lowers the reliance on extra visual clutter, simplifies design
-
-[Table of Contents](/index.md)
