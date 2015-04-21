@@ -1,8 +1,9 @@
-# test-lesson
+# Programmatic Animation
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-A test for browser-lessons
+## Table of Contents
+1. [Why animation at all?](/BrendanNeufeld/test-lesson/blob/master/lessons/1-%20Why%20animation%20at%20all/index.md/)
 
 ## Usage
 
